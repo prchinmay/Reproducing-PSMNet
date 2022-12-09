@@ -3,11 +3,9 @@
 ![banner](pics/banner.PNG) 
 
 ## Overview
-This is a reproduction of the CVPR 2018 paper ["Pyramid Stereo Matching Network"](https://arxiv.org/abs/1803.08669). 
-This repository contains code to calculate end-point error on Scene Flow dataset and to visualize the training and validation loss.
+This is a reproduction of the CVPR 2018 paper ["Pyramid Stereo Matching Network"](https://arxiv.org/abs/1803.08669). This repository contains code to calculate end-point error on Scene Flow dataset and to visualize the training and validation loss.
 
-Before starting to work on the code read our 
-[blog post](
+Before starting to work on the code read our [blog post](
 
 https://medium.com/tu-delft-deep-learning-project/reproducing-pyramid-stereo-matching-an-advancement-in-disparity-image-generation-a91255ea1419) on the same. 
 
