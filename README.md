@@ -6,9 +6,10 @@
 This is a reproduction of the CVPR 2018 paper ["Pyramid Stereo Matching Network"](https://arxiv.org/abs/1803.08669). 
 This repository contains code to calculate end-point error on Scene Flow dataset and to visualize the training and validation loss.
 
-Before starting to work on the code read our [blog post](https://medium.com/tu-delft-deep-learning-project/reproducing-pyramid-stereo-matching-an-advancement-in-disparity-image-generation-a91255ea1419
+Before starting to work on the code read our 
+[blog post](
 
-)
+https://medium.com/tu-delft-deep-learning-project/reproducing-pyramid-stereo-matching-an-advancement-in-disparity-image-generation-a91255ea1419)
 on the same. 
 
 
@@ -56,8 +57,7 @@ Clone the PSMNet repository from the above link.
 ##  Visualzing the training and test loss
 
 
-* 
-Run the script `finetune.py` that you copy pasted from this repository. This will save a file containing all losses that occurred during finetuning.
+* Run the script `finetune.py` that you copy pasted from this repository. This will save a file containing all losses that occurred during finetuning.
 
 
 * Run the script `training_and_validation_plot.py`. You will see your training and validation loss printed to the console.
